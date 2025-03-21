@@ -1,4 +1,4 @@
-### **Aula atividade** ###
+### **Aula atividade - Módulo 11** ###
 
 O repositório Ebac_News é um projeto de blog de notícias que visa fornecer uma plataforma para a publicação e leitura de artigos sobre diversos temas.
 
